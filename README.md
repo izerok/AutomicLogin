@@ -4,7 +4,9 @@
 
 # 环境准备
 
-1.python
+1.python3
 
 2.request内置库
+
+3.time 库
 
