@@ -3,6 +3,8 @@
  # Python自动签到蘑菇丁
 
 # 环境准备
- 1.python
- 2.
-sdasd
+
+1.python
+
+2.request内置库
+
