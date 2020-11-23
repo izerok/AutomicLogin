@@ -1,13 +1,12 @@
-# AutomicLogin
-Automatic Login moguding
+
 # Python自动签到蘑菇丁
+Python Automatic Login moguding
 # 1.环境准备
-1.python3
-2.urllib.request
-3.ssl
-4.json
-5.time
-``` 
-request as r 
+python3
+# 2.所需的库
 ```
-sdsad 
+urllib.request
+ssl
+json
+time
+```
