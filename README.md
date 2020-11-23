@@ -1,5 +1,8 @@
 # Python自动签到蘑菇丁
-Python Automatic Login moguding
+Python Automatic Login moguding  
+
+# 一丶首次使用准备
+# 二丶正式使用
 # 1.环境准备
 python3
 # 2.所需的库
