@@ -2,10 +2,8 @@
 Python Automatic Login moguding  
 
 # 一丶首次使用准备
-## 1.planId获取
-&nbsp;&nbsp;sd&nbsp;sd
-## 2.获取经纬度
-https://api.map.baidu.com/lbsapi/getpoint/index.html 通过该网址获取经纬度  精确至小数点后六位
+## 1.获取经纬度
+https://api.map.baidu.com/lbsapi/getpoint/index.html 通过百度API获取经纬度  精确至小数点后六位
 # 二丶正式使用
 ## 1.环境准备
 **python3**<br>
