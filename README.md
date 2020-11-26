@@ -26,3 +26,5 @@ ssl
 [点击查看](https://github.com/izerok/AutomicLogin/blob/main/moguding.py)  
 
 # 三丶自动化运行
+**1. 打包**  
+**2. 使用微软开机自启**  
